@@ -4,7 +4,7 @@
 //
 //  Created by Michael Toppeta on 2/15/18.
 //  Copyright © 2018 Michael Toppeta. All rights reserved.
-//
+// I did this with my new kraken github account
 
 import UIKit
 
